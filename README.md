@@ -1,2 +1,2 @@
 # night-rider
-Uses assembly to create a 'night-rider'-esque light show
+Uses assembly and ARM Thumb to create a 'night-rider'-esque light show
